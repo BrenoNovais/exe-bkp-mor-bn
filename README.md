@@ -13,5 +13,3 @@
  Colocar no agendador de tarefas 1 vez por dia update.bat as 00:00
  
  Cadastro https://bkp.morinfo.com.br/cadastro-empresa
- 
- Teste-upade
